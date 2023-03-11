@@ -1,0 +1,5 @@
+/.idea/
+/tmp/
+/vendor/
+/config/application.yaml
+/.code/
